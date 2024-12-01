@@ -2,9 +2,9 @@
 let employees = [
     { id: 1, name: 'Alice Smith', extension: 1234, email: 'alices@company.com', department: 'HR' },
     { id: 2, name: 'John Doe', extension: 5678, email: 'johnd@company.com', department: 'Engineering' },
-    { id: 3, name: 'James Park', extension: 9101, email: 'jamesp@example.com', department: 'Sales' },
-    { id: 4, name: 'Samantha Winston', extension: 1121, email: 'samanthaw@example.com', department: 'Marketing' },
-    { id: 5, name: 'Michelle Jones', extension: 3141, email: 'michellej@example.com', department: 'Finance' }
+    { id: 3, name: 'James Park', extension: 9101, email: 'jamesp@company.com', department: 'Sales' },
+    { id: 4, name: 'Samantha Winston', extension: 1121, email: 'samanthaw@company.com', department: 'Marketing' },
+    { id: 5, name: 'Michelle Jones', extension: 3141, email: 'michellej@company.com', department: 'Finance' }
 ];
 
 // Load employees from localStorage if available
